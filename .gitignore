@@ -1,4 +1,6 @@
 .venv/*
+*.in
+*.out 
 .idea
 *.pyc
 string=sorted(input())
